@@ -1,5 +1,10 @@
-#hugo-deploy
+# hugo-deploy
 Deploy hugo website to remote server using rsync
+
+## Prerequisites
+- SSH Server on remote server
+- SSH Client on local machine
+- rsync on both machines
 
 ## Usage
 - Clone this repository
